@@ -16,3 +16,8 @@ Support in CatVodApp public version 1.0+.
 - Android/Windows/Linux/iOS/MacOS base on QuickJS.
 
 This repository is just a simple demo. For complete development documents, refer to group files. 
+
+
+## News
+
+[2022/12/08] Add new js complie tool. (Group files)
